@@ -1,0 +1,280 @@
+1,1776,1,0
+2,1789,1,0
+3,1804,1,0
+4,1816,1,1
+1,Nelson Mandela,2,1
+2,F.W. de Klerk,2,0
+3,Desmond Tutu,2,0
+4,Thabo Mbeki,2,0
+1,Guerra de Vietnam,3,0
+2,Guerra Fria,3,1
+3,Guerra del Golfo,3,0
+4,Crisis de los Misiles de Cuba,3,0
+1,1905,4,0
+2,1923,4,0
+3,1945,4,0
+4,1917,4,1
+1,Che Guevara,5,0
+2,Camilo Cienfuegos,5,0
+3,Raul Castro,5,0
+4,Fidel Castro,5,1
+1,1918,6,0
+2,1919,6,1
+3,1920,6,0
+4,1921,6,0
+1,Charles de Gaulle,7,1
+2,Dwight D. Eisenhower,7,0
+3,Franklin D. Roosevelt,7,0
+4,Winston Churchill,7,0
+1,Constantinopla,8,0
+2,Cartago,8,0
+3,Roma,8,1
+4,Atenas,8,0
+1,1914,9,1
+2,1923,9,0
+3,1905,9,0
+4,1939,9,0
+1,George Washington,10,1
+2,Thomas Jefferson,10,0
+3,Abraham Lincoln,10,0
+4,John Adams,10,0
+1,Han,11,1
+2,Ming,11,0
+3,Tang,11,0
+4,Song,11,0
+1,NFC,12,0
+2,Wi-Fi,12,0
+3,Bluetooth,12,1
+4,USB,12,0
+1,Euripides,13,0
+2,Esquilo,13,0
+3,Homero,13,1
+4,Sofocles,13,0
+1,Esquilo,14,0
+2,Euripides,14,0
+3,Aristofanes,14,0
+4,Sofocles,14,1
+1,Rosa Parks,15,0
+2,John F. Kennedy,15,0
+3,Martin Luther King Jr.,15,1
+4,Malcolm X,15,0
+1,Carbono,16,0
+2,Oxigeno,16,1
+3,Hierro,16,0
+4,Silicio,16,0
+1,Atomo,17,1
+2,Molecula,17,0
+3,Electron,17,0
+4,Neutron,17,0
+1,Nariz,18,0
+2,Boca,18,0
+3,Ojo,18,0
+4,Oido,18,1
+1,Tercera Ley de Newton,19,1
+2,Ley de Ohm,19,0
+3,Ley de Boyle-Mariotte,19,0
+4,Ley de Gravitacion Universal,19,0
+1,Neutron,20,0
+2,Positron,20,0
+3,Electron,20,1
+4,Proton,20,0
+1,Nitrogeno,21,1
+2,Oxigeno,21,0
+3,Dioxido de carbono,21,0
+4,Hidrogeno,21,0
+1,Digestion,22,0
+2,Fotosintesis,22,1
+3,Respiracion,22,0
+4,Fermentacion,22,0
+1,1919,23,0
+2,1932,23,0
+3,1947,23,1
+4,1955,23,0
+1,Tratado de Tordesillas,24,0
+2,Tratado de Londres,24,0
+3,Tratado de Paris,24,0
+4,Tratado de Versalles,24,1
+1,Cruzadas,25,0
+2,Revolucion Industrial,25,0
+3,Ilustracion,25,0
+4,Renacimiento,25,1
+1,Invasion de Polonia,26,1
+2,Ataque a Pearl Harbor,26,0
+3,Bombardeo de Londres,26,0
+4,Caida de Francia,26,0
+1,Mars Rover Curiosity,27,0
+2,Apollo 11,27,1
+3,Voyager 1,27,0
+4,Hubble Space Telescope,27,0
+1,Urano,28,0
+2,Jupiter,28,0
+3,Neptuno,28,0
+4,Saturno,28,1
+1,Orion,29,0
+2,Escorpio,29,0
+3,Osa Mayor,29,1
+4,Leo,29,0
+1,Sally Ride,30,0
+2,Valentina Tereshkova,30,1
+3,Mae Jemison,30,0
+4,Yuri Gagarin,30,0
+1,Alfa Centauri,31,0
+2,Polaris,31,0
+3,Sirio,31,1
+4,Betelgeuse,31,0
+1,Sirio,32,0
+2,Alfa Centauri,32,0
+3,Betelgeuse,32,0
+4,Proxima Centauri,32,1
+1,Jupiter,33,1
+2,Neptuno,33,0
+3,Saturno,33,0
+4,Urano,33,0
+1,Nilo,34,0
+2,Amazonas,34,1
+3,Yangtse,34,0
+4,Mississippi,34,0
+1,Arabia Saudita,35,0
+2,Chile,35,1
+3,Namibia,35,0
+4,Peru,35,0
+1,Brasil,36,0
+2,Francia,36,0
+3,Argentina,36,1
+4,Alemania,36,0
+1,Rusia - China,37,0
+2,EEUU - Canada,37,1
+3,Chile - Argentina,37,0
+4,India - Bangladesh,37,0
+1,Rusia,38,1
+2,Francia,38,0
+3,China,38,0
+4,Australia,38,0
+1,Bruselas,39,0
+2,Bangkok,39,0
+3,Amsterdam,39,0
+4,Venecia,39,1
+1,Ciudad del Vaticano,40,1
+2,Nauru,40,0
+3,Monaco,40,0
+4,San Marino,40,0
+1,Tibet y Butan,41,0
+2,Pakistan y China,41,0
+3,India y Nepal,41,0
+4,Nepal y China,41,1
+1,Microsoft,42,0
+2,Google,42,1
+3,Yahoo,42,0
+4,Bing,42,0
+1,Steve Jobs,43,0
+2,Bill Gates,43,1
+3,Larry Page,43,0
+4,Sergey Brin,43,0
+1,Jeff Bezos,44,0
+2,Bill Gates,44,0
+3,Mark Zuckerberg,44,0
+4,Elon Musk,44,1
+1,LTE,45,0
+2,Ethernet,45,0
+3,3G,45,0
+4,5G,45,1
+1,Curling,46,1
+2,Bobsleigh,46,0
+3,Patinaje artistico,46,0
+4,Hockey sobre hielo,46,0
+1,Golf,47,1
+2,Tenis,47,0
+3,Beisbol,47,0
+4,Baloncesto,47,0
+1,Badminton,48,0
+2,Polo,48,1
+3,Croquet,48,0
+4,Cricket,48,0
+1,Rafael Nadal,49,0
+2,Novak Djokovic,49,0
+3,Roger Federer,49,1
+4,Serena Williams,49,0
+1,Argentina,50,0
+2,Italia,50,0
+3,Brasil,50,1
+4,Alemania,50,0
+1,Magic Johnson,51,0
+2,Michael Jordan,51,1
+3,LeBron James,51,0
+4,Kobe Bryant,51,0
+1,Tenis,52,0
+2,Rugby,52,0
+3,Baloncesto,52,0
+4,Futbol,52,1
+1,Christopher Nolan,53,0
+2,Quentin Tarantino,53,1
+3,Steven Spielberg,53,0
+4,Martin Scorsese,53,0
+1,J.K. Rowling,54,1
+2,Stephen King,54,0
+3,J.R.R. Tolkien,54,0
+4,Suzanne Collins,54,0
+1,Blade Runner,55,0
+2,The Matrix,55,1
+3,Terminator 2,55,0
+4,Star Wars: Episodio I,55,0
+1,James Cameron,56,0
+2,Christopher Nolan,56,0
+3,Steven Spielberg,56,0
+4,Peter Jackson,56,1
+1,Michael Jackson,57,1
+2,Elvis Presley,57,0
+3,Prince,57,0
+4,Bruno Mars,57,0
+1,Harry Sirius Potter,58,0
+2,Harry James Potter,58,1
+3,Harry Albus Potter,58,0
+4,Harry Severus Potter,58,0
+1,Tom Cruise,59,0
+2,Johnny Depp,59,0
+3,Leonardo DiCaprio,59,1
+4,Brad Pitt,59,0
+1,Honore de Balzac,60,0
+2,Gustave Flaubert,60,0
+3,Jane Austen,60,0
+4,Charles Dickens,60,1
+1,Miguel de Cervantes,61,1
+2,Lope de Vega,61,0
+3,Calderon de la Barca,61,0
+4,Tirso de Molina,61,0
+1,Esteban Echeverria,62,0
+2,Juan Maria Gutierrez,62,0
+3,Jose Hernandez,62,1
+4,Domingo Faustino Sarmiento,62,0
+1,Virgilio,63,0
+2,Petrarca,63,0
+3,Boccaccio,63,0
+4,Dante Alighieri,63,1
+1,Miguel de Cervantes,64,0
+2,William Shakespeare,64,1
+3,Dante Alighieri,64,0
+4,Geoffrey Chaucer,64,0
+1,Canal de Panama,65,1
+2,Canal de Suez,65,0
+3,Canal de Kiel,65,0
+4,Canal de la Mancha,65,0
+1,Lago Tanganica,66,0
+2,Lago Baikal,66,1
+3,Lago Vostok,66,0
+4,Lago Victoria,66,0
+1,Bolivia,67,1
+2,Peru,67,0
+3,Colombia,67,0
+4,Ecuador,67,0
+1,India,68,0
+2,Estados Unidos,68,0
+3,China,68,1
+4,Indonesia,68,0
+1,Monte Everest,69,1
+2,Annapurna,69,0
+3,Kilimanjaro,69,0
+4,K2,69,0
+1,Estados Unidos,70,0
+2,China,70,0
+3,Canada,70,0
+4,Rusia,70,1

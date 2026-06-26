@@ -1,0 +1,70 @@
+1,En que anio se firmo la Declaracion de Independencia de Argentina?
+2,Quien fue el primer presidente de Sudafrica tras el fin del apartheid?
+3,Cual fue el conflicto belico que involucro a Estados Unidos y la Union Sovietica, sin llegar a una confrontacion directa?
+4,En que anio comenzo la Revolucion Rusa?
+5,Quien fue el lider de la Revolucion Cubana que derroco a Fulgencio Batista?
+6,En que anio se firmo el Tratado de Versalles que puso fin a la Primera Guerra Mundial?
+7,Quien fue el lider politico y militar frances que lidero las fuerzas aliadas durante la Segunda Guerra Mundial?
+8,Cual fue la capital del Imperio Romano?
+9,En que anio comenzo la Primera Guerra Mundial?
+10,Quien fue el primer presidente de los Estados Unidos?
+11,Cual fue la dinastia que goberno China durante la mayor parte del periodo imperial?
+12,Que siglas representan el estandar de conexion inalambrica que se utiliza para conectar dispositivos a corta distancia?
+13,Quien escribio 'La Iliada' y 'La Odisea'?
+14,Que autor griego escribio 'La tragedia de Edipo Rey'?
+15,Quien fue el lider del movimiento de los derechos civiles en Estados Unidos en la decada de 1960?
+16,Cual es el elemento quimico mas abundante en la corteza terrestre?
+17,Cual es la unidad basica de la materia?
+18,En que parte del cuerpo humano se encuentra el timpano?
+19,Que ley de la fisica establece que 'a toda accion le corresponde una reaccion igual y en sentido contrario'?
+20,Que componente del atomo tiene carga negativa?
+21,Que gas constituye la mayor parte de la atmosfera terrestre?
+22,Cual es el proceso mediante el cual las plantas convierten la luz solar en energia quimica?
+23,En que anio se llevo a cabo la independencia de India del dominio britanico?
+24,Que tratado puso fin a la Primera Guerra Mundial?
+25,Que evento historico marco el fin de la Edad Media en Europa?
+26,Que evento marco el comienzo de la Segunda Guerra Mundial en Europa?
+27,Cual es la mision espacial de la NASA que envio al primer ser humano a la Luna?
+28,Que planeta del sistema solar tiene anillos visibles desde la Tierra?
+29,Cual es el nombre de la constelacion que representa una cacerola o cazuela?
+30,Cual es el nombre de la primera mujer astronauta que viajo al espacio?
+31,Cual es la estrella mas brillante en el cielo nocturno?
+32,Cual es la estrella mas cercana a la Tierra despues del Sol?
+33,Cual es el planeta mas grande del sistema solar?
+34,Cual es el rio mas largo del mundo?
+35,En que pais se encuentra el desierto de Atacama?
+36,Que pais gano el mundial de Futbol en el anio 2023?
+37,Cual es la frontera terrestre mas larga del mundo?
+38,Cual es el pais con mas husos horarios en el mundo?
+39,Que ciudad es conocida por sus canales de agua?
+40,Cual es el pais mas pequenio del mundo en terminos de territorio?
+41,Entre que paises se encuentra el Monte Everest?
+42,Que empresa es conocida por desarrollar el motor de busqueda mas utilizado en el mundo?
+43,Cual es el nombre del cofundador de Microsoft junto a Paul Allen?
+44,Que empresario estadounidense es conocido por fundar la compania Tesla?
+45,Que siglas representan el estandar de comunicacion inalambrica que sucede a 4G?
+46,En que deporte los jugadores compiten en una pista de hielo y utilizan escobas para deslizar una piedra hacia un objetivo circular?
+47,En que deporte los jugadores compiten para ganar puntos al colocar una bola en el hoyo con el menor numero de golpes?
+48,Cual es el deporte que se juega en un campo de cesped o tierra con un pequenio balon y palos con forma de letra 'L'?
+49,Que jugador de tenis ha ganado el mayor numero de titulos de Grand Slam en la historia?
+50,Que pais ha ganado la Copa del Mundo de futbol mas veces?
+51,Quien es considerado el mejor jugador de baloncesto de todos los tiempos?
+52,En que deporte se utiliza una pelota redonda y se juega en una cancha rectangular con dos equipos de 11 jugadores cada uno?
+53,Que famoso director de cine es conocido por peliculas como 'Pulp Fiction' y 'Kill Bill'?
+54,Quien escribio la serie de libros 'Harry Potter'?
+55,Que pelicula de ciencia ficcion de 1999 dirigida por los hermanos Wachowski se convirtio en un fenomeno cultural?
+56,Que director de cine dirigio la trilogia de 'El Senior de los Anillos'?
+57,Quien es conocido como el 'Rey del Pop'?
+58,Cual es el nombre completo del personaje de Harry Potter?
+59,Quien interpreto el papel de Jack Dawson en la pelicula 'Titanic'?
+60,Quien es el autor de 'Un cuento de Navidad'?
+61,Quien es el autor de 'Don Quijote de la Mancha'?
+62,Quien escribio el 'Martin Fierro'?
+63,Que autor escribio 'La Divina Comedia'?
+64,Que autor escribio la obra de teatro 'Hamlet'?
+65,Cual es el canal que conecta el Oceano Atlantico con el Oceano Pacifico?
+66,Cual es el lago mas profundo del mundo?
+67,Que pais Latinoamericano no tiene salida al mar?
+68,Cual es el pais mas poblado del mundo?
+69,Cual es la montania mas alta del mundo?
+70,Cual es el pais mas grande del mundo por superficie?

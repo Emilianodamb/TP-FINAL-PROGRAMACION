@@ -1,0 +1,16 @@
+1,Cual es el nombre del filosofo aleman conocido por su trabajo en la teoria critica y su influencia en la Escuela de Frankfurt?
+2,Cual es el nombre del quimico sueco que invento la tabla periodica de los elementos?
+3,Que matematico griego es conocido como el 'padre de la geometria' y escribio 'Elementos'?
+4,Cual es el nombre del explorador portugues que comando la primera expedicion que circunnavego la Tierra?
+5,Cual fue el nombre del primer ser humano en orbitar la Tierra?
+6,Que matematico frances demostro el ultimo teorema de Fermat en 1994?
+7,Quien fue el emperador romano que construyo el Muro de Adriano en la frontera norte de Britannia?
+8,En que anio se produjo el colapso del Imperio Azteca a manos de los conquistadores espanioles?
+9,Cual es el elemento quimico con el numero atomico 94?
+10,En que anio se firmo el Tratado de Tordesillas?
+11,Quien fue el lider militar y politico que encabezo la Revolucion Rusa de 1917 y se convirtio en el primer lider de la Union Sovietica?
+12,Cual fue el nombre del faraon egipcio que mando a construir la Gran Piramide de Giza?
+13,Quien fue el pintor flamenco del siglo XV conocido por su obra 'El jardin de las delicias'?
+14,Cual es el nombre del politico y militar chino que fundo la Republica Popular China en 1949?
+15,Cual es el nombre del fisico aleman que formulo la teoria de la relatividad especial antes que Einstein, pero no recibio el mismo reconocimiento?
+16,Cual es el nombre del filosofo aleman que escribio la 'Critica de la razon pura' y formulo la teoria de los imperativos categoricos?

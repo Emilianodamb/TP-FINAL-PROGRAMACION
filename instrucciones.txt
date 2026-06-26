@@ -1,0 +1,20 @@
+INSTRUCCIONES:
+
+- De 2 a 4 jugadores.
+
+- Cada jugador debe responder preguntas de diferentes topicos
+en formato multiple choice.
+
+- Por cada respuesta correcta el jugador recibe 1 punto.
+Las preguntas mas dificiles suman 3 puntos.
+
+- Cuando el jugador se equivoca termina su turno y continua
+el siguiente jugador.
+
+- Una vez que todos los jugadores terminaron gana quien sume
+la mayor cantidad de puntos.
+
+- En caso de empate los jugadores deberan responder una
+pregunta matematica cuyo resultado es un numero entero.
+Gana quien se aproxime mas al resultado correcto.
+

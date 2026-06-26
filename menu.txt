@@ -1,0 +1,5 @@
+1. Nueva partida
+2. Mostrar puntajes maximos
+3. Salir del juego
+
+Elija una opcion: 

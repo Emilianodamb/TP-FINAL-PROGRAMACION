@@ -1,0 +1,5 @@
+1,36,Si divides un numero entre 3 y luego le restas 8, obtienes 4. //--> Cual es el numero?
+2,30,Si tienes un numero y le sumas su tercera parte, el resultado es 40. //--> Cual es el numero?
+3,0,Si tomas un numero, le sumas 8, multiplicas por 3 y luego le restas 5, obtienes 19. //--> Cual es el numero?
+4,332,Si tienes un numero desconocido, le sumas 356, lo divides por 4 y luego le restas 72, obtienes 100. //--> Cual es el numero?
+5,12344,Si tienes un numero y le sumas 9876, luego lo divides por 4 y finalmente le restas 4321, obtienes 1234. //--> Cual es el numero?

@@ -1,0 +1,64 @@
+1,Martin Heidegger,1,0
+2,Georg Wilhelm Friedrich Hegel,1,0
+3,Theodor Adorno,1,1
+4,Friedrich Nietzsche,1,0
+1,Antoine Lavoisier,2,0
+2,Dmitri Mendeleyev,2,1
+3,Niels Bohr,2,0
+4,Marie Curie,2,0
+1,Arquimedes,3,0
+2,Pitagoras,3,0
+3,Anaxagoras,3,0
+4,Euclides,3,1
+1,Fernando de Magallanes,4,1
+2,Amerigo Vespucci,4,0
+3,Cristobal Colon,4,0
+4,Vasco da Gama,4,0
+1,John Glenn,5,0
+2,Yuri Gagarin,5,1
+3,Valentina Tereshkova,5,0
+4,Alan Shepard,5,0
+1,Pierre-Simon Laplace,6,0
+2,Blaise Pascal,6,0
+3,Rene Descartes,6,0
+4,Andrew Wiles,6,1
+1,Adriano,7,1
+2,Trajano,7,0
+3,Augusto,7,0
+4,Cesar,7,0
+1,1492,8,0
+2,1521,8,1
+3,1543,8,0
+4,1587,8,0
+1,Plutonio,9,1
+2,Polonio,9,0
+3,Protactinio,9,0
+4,Uranio,9,0
+1,1543,10,0
+2,1521,10,0
+3,1506,10,0
+4,1494,10,1
+1,Vladimir Lenin,11,1
+2,Leon Trotsky,11,0
+3,Joseph Stalin,11,0
+4,Nikita Jrushchov,11,0
+1,Akenaton,12,0
+2,Ramses II,12,0
+3,Keops,12,1
+4,Tutankamon,12,0
+1,Pieter Brueghel el Viejo,13,0
+2,Jan van Eyck,13,0
+3,Peter Paul Rubens,13,0
+4,Hieronymus Bosch,13,1
+1,Deng Xiaoping,14,0
+2,Mao Zedong,14,1
+3,Chiang Kai-shek,14,0
+4,Sun Yat-sen,14,0
+1,Hendrik Lorentz,15,1
+2,Henri Poincare,15,0
+3,Max Planck,15,0
+4,Niels Bohr,15,0
+1,Friedrich Nietzsche,16,0
+2,Immanuel Kant,16,1
+3,Soren Kierkegaard,16,0
+4,Jean-Jacques Rousseau,16,0

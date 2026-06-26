@@ -1,0 +1,184 @@
+# depslib dependency file v1.0
+1698538091 source:c:\users\ayera\onedrive\escritorio\tp\tp_final_emiliano_dambrosio\respuesta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pregunta.h"
+	"respuesta.h"
+	"juego.h"
+
+1698538919 c:\users\ayera\onedrive\escritorio\tp\tp_final_emiliano_dambrosio\respuesta.h
+	"pregunta.h"
+
+1698539046 source:c:\users\ayera\onedrive\escritorio\tp\tp_final_emiliano_dambrosio\jugador.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"juego.h"
+	"jugador.h"
+
+1698538919 c:\users\ayera\onedrive\escritorio\tp\tp_final_emiliano_dambrosio\juego.h
+	"jugador.h"
+
+1698538919 c:\users\ayera\onedrive\escritorio\tp\tp_final_emiliano_dambrosio\jugador.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"juego.h"
+	"jugador.h"
+
+1698538091 source:c:\users\ayera\onedrive\escritorio\tp\tp_final_emiliano_dambrosio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"juego.h"
+	"pregunta.h"
+
+1698542939 c:\users\ayera\onedrive\escritorio\tp\tp_final_emiliano_dambrosio\pregunta.h
+	"respuesta.h"
+
+1698538091 source:c:\users\ayera\onedrive\escritorio\tp\tp_final_emiliano_dambrosio\pregunta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"juego.h"
+	"jugador.h"
+	"pregunta.h"
+	"respuesta.h"
+
+1698542939 source:c:\users\ayera\onedrive\escritorio\tp\tp_final_emiliano_dambrosio\juego.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"juego.h"
+	"jugador.h"
+	"pregunta.h"
+	"respuesta.h"
+
+1697852339 source:c:\users\ayera\onedrive\escritorio\tp\tp_final_emiliano_dambrosio\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+	"pregunta.h"
+
+1697851880 c:\users\ayera\onedrive\escritorio\tp\tp_final_emiliano_dambrosio\lista.h
+
+1701050941 source:c:\users\emili\desktop\tp_final_emiliano_dambrosio\tp_final_emiliano_dambrosio\juego.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"juego.h"
+	"jugador.h"
+	"pregunta.h"
+	"respuesta.h"
+
+1698538919 c:\users\emili\desktop\tp_final_emiliano_dambrosio\tp_final_emiliano_dambrosio\juego.h
+	"jugador.h"
+
+1698538919 c:\users\emili\desktop\tp_final_emiliano_dambrosio\tp_final_emiliano_dambrosio\jugador.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"juego.h"
+	"jugador.h"
+
+1698542939 c:\users\emili\desktop\tp_final_emiliano_dambrosio\tp_final_emiliano_dambrosio\pregunta.h
+	"respuesta.h"
+
+1698538919 c:\users\emili\desktop\tp_final_emiliano_dambrosio\tp_final_emiliano_dambrosio\respuesta.h
+	"pregunta.h"
+
+1698539046 source:c:\users\emili\desktop\tp_final_emiliano_dambrosio\tp_final_emiliano_dambrosio\jugador.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"juego.h"
+	"jugador.h"
+
+1698538091 source:c:\users\emili\desktop\tp_final_emiliano_dambrosio\tp_final_emiliano_dambrosio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"juego.h"
+	"pregunta.h"
+
+1698538091 source:c:\users\emili\desktop\tp_final_emiliano_dambrosio\tp_final_emiliano_dambrosio\pregunta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"juego.h"
+	"jugador.h"
+	"pregunta.h"
+	"respuesta.h"
+
+1698538091 source:c:\users\emili\desktop\tp_final_emiliano_dambrosio\tp_final_emiliano_dambrosio\respuesta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pregunta.h"
+	"respuesta.h"
+	"juego.h"
+
+1701050941 source:c:\users\emili\onedrive\escritorio\tp_final_emiliano_dambrosio\tp_final_emiliano_dambrosio\juego.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"juego.h"
+	"jugador.h"
+	"pregunta.h"
+	"respuesta.h"
+
+1698538919 c:\users\emili\onedrive\escritorio\tp_final_emiliano_dambrosio\tp_final_emiliano_dambrosio\juego.h
+	"jugador.h"
+
+1698538919 c:\users\emili\onedrive\escritorio\tp_final_emiliano_dambrosio\tp_final_emiliano_dambrosio\jugador.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"juego.h"
+	"jugador.h"
+
+1698542939 c:\users\emili\onedrive\escritorio\tp_final_emiliano_dambrosio\tp_final_emiliano_dambrosio\pregunta.h
+	"respuesta.h"
+
+1698538919 c:\users\emili\onedrive\escritorio\tp_final_emiliano_dambrosio\tp_final_emiliano_dambrosio\respuesta.h
+	"pregunta.h"
+
+1698539046 source:c:\users\emili\onedrive\escritorio\tp_final_emiliano_dambrosio\tp_final_emiliano_dambrosio\jugador.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"juego.h"
+	"jugador.h"
+
+1698538091 source:c:\users\emili\onedrive\escritorio\tp_final_emiliano_dambrosio\tp_final_emiliano_dambrosio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"juego.h"
+	"pregunta.h"
+
+1698538091 source:c:\users\emili\onedrive\escritorio\tp_final_emiliano_dambrosio\tp_final_emiliano_dambrosio\pregunta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"juego.h"
+	"jugador.h"
+	"pregunta.h"
+	"respuesta.h"
+
+1698538091 source:c:\users\emili\onedrive\escritorio\tp_final_emiliano_dambrosio\tp_final_emiliano_dambrosio\respuesta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pregunta.h"
+	"respuesta.h"
+	"juego.h"
+
